@@ -1,0 +1,7 @@
+site_name: 'react-example-docs'
+
+nav:
+  - Home: ./docs/example.md
+
+plugins:
+  - techdocs-core
