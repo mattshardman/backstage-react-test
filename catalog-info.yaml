@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-react-test
+  annotations:
+    github.com/project-slug: mattshardman/backstage-react-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: me
