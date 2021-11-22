@@ -4,6 +4,7 @@ metadata:
   name: backstage-react-test
   annotations:
     github.com/project-slug: mattshardman/backstage-react-test
+    backstage.io/techdocs-ref: dir:.docs
 spec:
   type: website
   lifecycle: unknown
