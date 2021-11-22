@@ -1,6 +1,7 @@
 site_name: 'react-example-docs'
 
 nav:
+  - Api: ./pages/api/api.md
   - api: /pages/api/api.md
 
 plugins:
