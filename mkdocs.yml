@@ -1,7 +1,8 @@
 site_name: 'react-example-docs'
 
 nav:
-  - Home: index.md
+  - home: README.md
+  - more: index.md
 
 plugins:
   - techdocs-core
